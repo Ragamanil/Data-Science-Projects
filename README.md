@@ -1,5 +1,6 @@
 # Data Science Projects
 
+
 ---
 
 - This is a compiled list of different project topics for learning purposes
